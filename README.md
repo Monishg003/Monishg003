@@ -1,10 +1,12 @@
 <div align="center">
 
+# 👋 Introduction
+
 # Monish G
 
 **Java Backend Developer** · Spring Boot · Microservices · Cloud
 
-Chennai, India · [LinkedIn](https://www.linkedin.com/in/monish-g-27b157258) · [GitHub](https://github.com/Monishg003) · [Email](mailto:monishg0055@gmail.com)
+Chennai, India
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -14,38 +16,17 @@ Chennai, India · [LinkedIn](https://www.linkedin.com/in/monish-g-27b157258) · 
 
 </div>
 
----
-
-## About
-
 Java Backend Developer with **2 years of experience** designing and building scalable enterprise applications using **Java**, **Spring Boot**, and **Microservices**.
 
 I work on RESTful APIs, multi-tenant architecture, and high-volume workflows — with a focus on secure, high-performance systems and clean, maintainable code. Comfortable across **MongoDB**, **Oracle**, **PostgreSQL**, **Microsoft Azure**, and **Google Cloud Platform**.
 
 **What I care about:** Spring Security, multithreading, OOP, database optimization, and delivering in Agile sprints.
 
----
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mongodb,postgres,redis,azure,gcp,kafka,docker,linux,maven,git,github,idea,jenkins" alt="Tech stack" />
-</div>
-
-<br/>
-
-| Area | Skills |
-| --- | --- |
-| **Languages** | Java, SQL, JavaScript |
-| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, Microservices |
-| **Databases** | MongoDB, PostgreSQL, Oracle, MySQL, Redis |
-| **Cloud** | Microsoft Azure, Google Cloud Platform (GCP) |
-| **Backend** | RESTful APIs, JWT Authentication, Multi-Tenant Architecture, Apache Kafka, WebSocket, API Gateway |
-| **Tools** | Git, GitHub, Maven, Postman, Swagger (OpenAPI), Docker, Linux, IntelliJ IDEA, Jenkins |
+**Education:** B.E. Electronics and Communication Engineering · K S Rangasamy College of Technology · Aug 2021 – Mar 2025
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Backend Java Developer · [Encipher Health](https://www.linkedin.com/company/encipher-health-inc)
 **Jul 2025 – Present** · Chennai, India
@@ -70,7 +51,26 @@ Owned backend services for a **Timesheet Management System** — submissions, ap
 
 ---
 
-## Featured Work
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mongodb,postgres,redis,azure,gcp,kafka,docker,linux,maven,git,github,idea,jenkins" alt="Tech stack" />
+</div>
+
+<br/>
+
+| Area | Skills |
+| --- | --- |
+| **Languages** | Java, SQL, JavaScript |
+| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, Microservices |
+| **Databases** | MongoDB, PostgreSQL, Oracle, MySQL, Redis |
+| **Cloud** | Microsoft Azure, Google Cloud Platform (GCP) |
+| **Backend** | RESTful APIs, JWT Authentication, Multi-Tenant Architecture, Apache Kafka, WebSocket, API Gateway |
+| **Tools** | Git, GitHub, Maven, Postman, Swagger (OpenAPI), Docker, Linux, IntelliJ IDEA, Jenkins |
+
+---
+
+## 🚀 Projects
 
 ### AI Medical Coding Platform
 **Encipher Health** · Java · Spring Boot · MongoDB · Microservices
@@ -92,38 +92,31 @@ Automated employee timesheet submission and approval — less manual effort, liv
 
 ---
 
-## Education
+## 🌐 Portfolio
 
-**B.E. Electronics and Communication Engineering**  
-K S Rangasamy College of Technology · Namakkal, Tamil Nadu  
-Aug 2021 – Mar 2025
+A React portfolio with experience, projects, and contact — built around this profile.
 
----
-
-## GitHub
-
-<div align="center">
-
-<img height="160"
-src="https://monish-portfolio-psi.vercel.app/api?username=Monishg003&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C0392B&icon_color=C0392B&text_color=E6EDF3"
-alt="GitHub Stats" />
-
-<img height="160"
-src="https://monish-portfolio-psi.vercel.app/api/top-langs/?username=Monishg003&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C0392B&text_color=E6EDF3"
-alt="Top Languages" />
-
-</div>
+**[monish-portfolio-psi.vercel.app](https://monish-portfolio-psi.vercel.app/)**
 
 ---
 
-## Let's Connect
+## 📄 Resume
 
-Open to backend roles and conversations about Java, Spring Boot, and scalable systems.
+Full resume with detailed experience, skills, and education.
 
-- **Email:** [monishg0055@gmail.com](mailto:monishg0055@gmail.com)
-- **LinkedIn:** [linkedin.com/in/monish-g-27b157258](https://www.linkedin.com/in/monish-g-27b157258)
-- **GitHub:** [github.com/Monishg003](https://github.com/Monishg003)
-- **Location:** Chennai, India
+**[Download Resume (PDF)](./Resume_latest.pdf)**
+
+---
+
+## 🔗 LinkedIn
+
+Let’s connect — open to backend roles and conversations about Java, Spring Boot, and scalable systems.
+
+**[linkedin.com/in/monish-g-27b157258](https://www.linkedin.com/in/monish-g-27b157258)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-g-27b157258)
+[![Email](https://img.shields.io/badge/Email-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishg0055@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monishg003)
 
 <div align="center">
 
