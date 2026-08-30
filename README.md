@@ -104,7 +104,7 @@ A React portfolio with experience, projects, and contact — built around this p
 
 Full resume with detailed experience, skills, and education.
 
-**[Download Resume (PDF)](./Resume_latest.pdf)**
+**[Download Resume (PDF)](./Resume_01.pdf)**
 
 ---
 
