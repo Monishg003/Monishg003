@@ -104,6 +104,7 @@ Aug 2021 – Mar 2025
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Monishg003&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C0392B&icon_color=C0392B&text_color=E6EDF3" alt="GitHub stats" />
+
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishg003&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C0392B&text_color=E6EDF3" alt="Top languages" />
 </div>
 
